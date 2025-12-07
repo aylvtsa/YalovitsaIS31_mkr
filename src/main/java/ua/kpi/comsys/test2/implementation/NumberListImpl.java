@@ -1,8 +1,6 @@
 /*
  * Copyright (c) 2014, NTUU KPI, Computer systems department and/or its affiliates. All rights reserved.
  * NTUU KPI PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- *
- *
  */
 
 package ua.kpi.comsys.test2.implementation;
